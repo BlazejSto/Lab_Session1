@@ -15,4 +15,9 @@ public class GameOver : MonoBehaviour
     {
         
     }
+    private void OnCollisionEnter(Collision collision)
+    {
+        if
+   
+    }
 }
